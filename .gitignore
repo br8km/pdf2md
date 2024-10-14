@@ -1,3 +1,19 @@
 
 dummy
 examples
+
+# Mac
+**/.DS_Store
+**/._.DS_Store
+
+# VSCode 
+.vscode/*
+
+# Coverage
+c.out
+
+# Stats
+_scripts/*.csv
+
+# GoReleaser
+dist/*
